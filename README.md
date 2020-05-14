@@ -4,3 +4,4 @@ Marine debris is a persistent problem that is only becoming worse. Beach cleanup
 
 We look to apply a machine learning image recognition algorithm using the fast.ai library for coastal cleanup applications, i.e. robotics and/or other autonomous machines.
 
+View our current presentation of the work here: https://github.com/giantmagellan/DebrisImageClassification/tree/master/presentation
